@@ -1,7 +1,14 @@
-## hi
+# hi
 
-i am jon
+high school student in ontario with too much free time and not enough motivation
 
-i do hardware and coding
+im good at hardware and some object oriented programming
 
-i know how to make pcbs and some low level programming stuff and for everything else i use claude 🙏💔
+### tools:
+Autodesk Fusion (design, electronics, simulation) VS Code, Visual Studio, Godot
+
+### frameworks:
+Arduino, ESP-IDF, Flutter, WPILib
+
+### languages:
+C, C++, Python, GDScript
