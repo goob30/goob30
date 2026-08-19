@@ -13,4 +13,4 @@ Arduino, ESP-IDF, Flutter, WPILib
 ### languages:
 C, C++, Python, GDScript
 
-im interested in aviation and music. i have a lot of (incomplete) projects about stuff like pedals, Ableton plugins and flight sim/drone stuff
+im interested in aviation and music. i have a lot of (incomplete) projects about stuff like flight sim/drone stuff and other random hardware projects i can think of
