@@ -31,4 +31,7 @@ Custom PCB for buttons and I2C splitter. Runs on a Pi Zero 2 W with display soft
 ##### Signaling system for bicycles
 2 MAX7219 matrices with selectable animations for turning left or right, hazard and brake lights. Uses either phone app or 2.8in display. [WIP]
 
+### TeachAssist Android
+Not the one on Play Store. Minimal yet fully functional TeachAssist implementation in Flutter which has marks (overall, midterm/final, per assignment etc), courses and theming.
+
 i didnt bother naming my repos the same as the actual project name
