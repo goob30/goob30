@@ -4,6 +4,8 @@ high school student in ontario with too much free time and not enough motivation
 
 im good at hardware and some object oriented programming
 
+programming @ FRC7902 Markham Firebirds
+
 ### tools:
 Autodesk Fusion (design, electronics, simulation) VS Code, Visual Studio, Godot
 
